@@ -1,0 +1,11 @@
+alias p8='ping 8.8.8.8'
+
+# Exa
+alias ls='exa -a -l'
+alias lg='exa -a -l --git'
+# My alias
+alias pro='/mnt/d/UnityProjects/bulletshero'
+alias mnd='/mnt/d'
+alias mnc='/mnt/c'
+alias b-alias='vim .aliases'
+alias g-alias='vim /root/.oh-my-zsh/plugins/git/git.plugin.zsh'
