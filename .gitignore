@@ -8,6 +8,8 @@
 !README.md
 !/.gitignore
 !/.gitmodules
+!/.gitconfig
+!/.bashrc
 !/.zshrc
 !/.vimrc
 !/.aliases
