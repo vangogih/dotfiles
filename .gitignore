@@ -2,7 +2,8 @@
 *
 
 # Except these folders:
-!.my-zsh/custom/*
+!/.my-zsh/custom/*
+!/.my-zsh/custom/plugins/
 
 # and files:
 !README.md
