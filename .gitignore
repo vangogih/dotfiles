@@ -1,9 +1,17 @@
+#!/.my-zsh/
+#!/.my-zsh/custom/*
 # Ignore all
 *
 
 # Except these folders:
-!/.my-zsh/custom/*
-!/.my-zsh/custom/plugins/
+.my-zsh/
+!.my-zsh/
+.my-zsh/custom/
+!.my-zsh/custom/
+!.my-zsh/custom/*
+.my-zsh/custom/plugins/git
+!.my-zsh/custom/plugins/git
+!.my-zsh/custom/plugins/git/*
 
 # and files:
 !README.md
