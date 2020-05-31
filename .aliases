@@ -1,8 +1,8 @@
 alias p8='ping 8.8.8.8'
 
 # Exa
-alias ls='exa -a -l'
-alias lg='exa -a -l --git'
+#alias ls='exa -a -l'
+#alias lg='exa -a -l --git'
 # My alias
 alias pro='/mnt/d/UnityProjects/bulletshero'
 alias mnd='/mnt/d'
