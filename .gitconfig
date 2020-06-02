@@ -7,3 +7,4 @@
 	autocrlf = true
 	safecrlf = false
 	eol = native
+	editor = vim
