@@ -2,8 +2,9 @@
 apt install zsh
 chsh -s $(which zsh)
 if [$SHELL != "/bin/zsh/"]; then
-	cat <<EOF Error: zsh not default shell. Try install and set by default manually.
-EOF
+	cat <<EOF 
+	Error: zsh not default shell. Try install and set by default manually.
+	EOF
 exit 1
 fi
 sh "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -11,7 +12,7 @@ sh "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)
 # sh update_git.sh
 add-apt-repository ppa:git-core/ppa -y
 apt-get update
-sudo apt-get install git -y
+apt-get install git -y
 echo $(git --version)
 
 # sh init_git_repo.sh
