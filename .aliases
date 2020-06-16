@@ -1,5 +1,4 @@
 #alias p8='ping 8.8.8.8'
-
 # Exa
 #alias ls='exa -a -l'
 #alias lg='exa -a -l --git'
