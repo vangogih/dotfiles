@@ -5,7 +5,10 @@
 .my-zsh/custom/
 !.my-zsh/custom/*
 !.my-zsh/custom/plugins/git/*
-.on_new_setup/
+
+!.my-zsh/custom/themes/
+!.my-zsh/custom/themes/*
+
 !.on_new_setup/
 !.on_new_setup/*
 
