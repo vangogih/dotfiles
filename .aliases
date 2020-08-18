@@ -9,3 +9,10 @@ alias mne='/mnt/e'
 alias mnc='/mnt/c'
 alias b-alias='vim ~/.aliases' 
 alias g-alias='vim ~/.my-zsh/custom/plugins/git/git.plugin.zsh'
+
+# aliases for project
+alias fgd='Assets/gd'
+alias fgui='Assets/gui'
+alias fdev='Assets/developing'
+alias fart='Assets/art'
+alias fpack='Packages/'
