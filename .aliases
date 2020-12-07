@@ -5,7 +5,7 @@ alias p8='ping 8.8.8.8'
 #alias lg='exa -a -l --git'
 # My alias
 alias unity='/mnt/w/Projects/Unity'
-alias rider=/mnt/w/Projects/Rider'
+alias rider='/mnt/w/Projects/Rider'
 alias mnw='/mnt/w'
 alias mnp='/mnt/p'
 alias mnc='/mnt/c'
