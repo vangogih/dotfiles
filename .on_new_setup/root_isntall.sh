@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # sh install_zsh_and_oh-my-zsh.sh  
-apt install zsh
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+#apt install zsh
+#sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 # sh update_git.sh
 add-apt-repository ppa:git-core/ppa -y
