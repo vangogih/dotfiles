@@ -28,7 +28,7 @@ function work_in_progress() {
 # Aliases
 # (sorted alphabetically)
 #
-alias devupd='prev_br=$(current_branch) && git checkout dev && git pull && git checkout $prev_br'
+alias devupd='prev_br=$(current_branch) && git checkout develop && git pull && git checkout $prev_br'
 
 alias g='git'
 alias ga='git add'
