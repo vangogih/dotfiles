@@ -1,10 +1,10 @@
 [user]
 	name = vangogih
 	email = vangogih@yandex.ru
-[credential]
-	helper = /mnt/d/Program\\ Files/Git/mingw64/libexec/git-core/git-credential-manager.exe
 [core]
 	autocrlf = true
 	safecrlf = false
 	eol = native
 	editor = vim
+[credential]
+	helper = /mnt/c/Program\\ Files/Git/mingw64/libexec/git-core/git-credential-manager.exe
